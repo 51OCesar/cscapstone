@@ -1,4 +1,9 @@
 body
 {
-    background-color: orange;
+    background-color: lightsteelblue;
+}
+
+p {
+
+    border: 4px solid lightslategray
 }
